@@ -1,0 +1,63 @@
+id: IF7BC2B0F
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2020-03-26T01:23:15+00:00'
+last_modified: '2022-06-07T21:48:00.668952+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W23471
+  title: གསུང་འབུམ། བློ་བཟང་ནོར་བུ་ཤེས་རབ
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: true
+  base:
+    AA56:
+      image_group_id: I2087
+      title: ''
+      total_pages: 662
+      order: 1
+      base_file: AA56.txt
+    21DC:
+      image_group_id: I2088
+      title: ''
+      total_pages: 694
+      order: 2
+      base_file: 21DC.txt
+    F77E:
+      image_group_id: I2089
+      title: ''
+      total_pages: 658
+      order: 3
+      base_file: F77E.txt
+    BA63:
+      image_group_id: I2090
+      title: ''
+      total_pages: 671
+      order: 4
+      base_file: BA63.txt
+    '6799':
+      image_group_id: I2091
+      title: ''
+      total_pages: 636
+      order: 5
+      base_file: 6799.txt
+    7B6C:
+      image_group_id: I2092
+      title: ''
+      total_pages: 650
+      order: 6
+      base_file: 7B6C.txt
+    E7A4:
+      image_group_id: I2093
+      title: ''
+      total_pages: 574
+      order: 7
+      base_file: E7A4.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
